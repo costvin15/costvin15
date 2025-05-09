@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Stefanini Brasil
+- 🔭 I’m currently working on Claro Pay
 
 ### 🕵️ Technologies 
 #### 🚀 Frameworks
